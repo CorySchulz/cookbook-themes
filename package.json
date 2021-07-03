@@ -1,0 +1,47 @@
+{
+    "name": "corys-themes",
+    "displayName": "Cory's Themes",
+    "description": "cory's custom themes'",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [ 
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cory 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cory-1-color-theme.json"
+            },
+            {
+                "label": "Cory 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cory-2-color-theme.json"
+            },
+            {
+                "label": "Cory 3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cory-3-color-theme.json"
+            },
+            {
+                "label": "Cory Blue Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cory-blue-dark-color-theme.json"
+            },
+            {
+                "label": "Cory Blue Dark 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cory-blue-dark-2-color-theme.json"
+            },
+            {
+                "label": "Uva Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/uvadark-rahul-fork-color-theme.json"
+            }
+        ]
+    }
+}
+
